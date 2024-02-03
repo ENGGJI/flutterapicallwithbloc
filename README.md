@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+This is simple hybrid app using flutter in which I implemented the Bloc architecture pattern to separate my business logic from the UI and the repository.
+This app has a single button by clicking on the button(which is an event) a different joke will come. 
